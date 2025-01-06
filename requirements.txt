@@ -1,0 +1,9 @@
+python-dotenv
+langchain
+arxiv
+bs4
+wikipedia
+langchain_huggingface
+SQLALchemy
+MySQL
+langchain-groq
